@@ -1,2 +1,2 @@
-# baekjoon
+# Baekjoon
 BOJ problems solved
